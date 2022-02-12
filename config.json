@@ -1,0 +1,11 @@
+{
+    "httpOptions":{
+        "hostname": "127.0.0.1",
+        "port": 3001,
+        "root": "D:\\zj\\MtProject\\yyjiaju_git\\staticPage",
+        "index": "html/index.html",
+        "gzip": true,
+        "compress": "html|css|js",
+        "openBrowser": true
+    }
+}
